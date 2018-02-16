@@ -18,8 +18,18 @@ declares exposed structures and functions for threads.
 typedef struct
 {
   int thread_id;
+  char* plog_file;
+  pthread_mutex_t fp_mutex;
 } threadInfo;
 
+/**
+*@brief:Implements thread function for Master thread
+*Thread function passed at the time of thread creation to implement thread
+*oprtn. Creates Child Threads
+*@param: Threadparam cast as void*
+*@return: Pointer cast as void*
+*/
+void *threadFunc0(void *pthread_info);
 
 /**
 *@brief:Implements thread function for first child thread

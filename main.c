@@ -12,7 +12,9 @@
 #include <errno.h>
 #include <string.h>
 #include"threads.h"
-
+#include <sys/types.h>
+#include <unistd.h>
+#define FILE_NAME_SIZE  (15)
 #define NUM_THREADS    (1)
 #define DEFAULT_THREAD_ATTR ((void *)0)
 
@@ -20,19 +22,24 @@
 int main ()
 {
 
-  pthread_t thread1, thread2;
-  threadInfo thread_info1,thread_info2;
+  char file_name[FILE_NAME_SIZE];
+  pthread_t thread0; //Master Thread
+  threadInfo thread_info0;
   int ret;
-
+  printf("Enter File Name\n");
+  scanf("%s",file_name);
+  printf("Main PID:%d\n",getpid());
+  thread_info0.thread_id = 0;
+  thread_info0.plog_file = file_name;
   ret = pthread_create(
-            &thread1,
+            &thread0,
             DEFAULT_THREAD_ATTR,
-            threadFunc1,
-            (void *)&(thread_info1)
+            threadFunc0,
+            (void *)&(thread_info0)
           );
   if(ret) {printf("Error: %s\n",strerror(errno)); return ret;}
 
-  pthread_join(thread1, NULL);
+  pthread_join(thread0, NULL);
   printf("TEST COMPLETE\n");
   return 0;
 }
