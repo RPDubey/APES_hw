@@ -19,7 +19,7 @@ typedef struct
 {
   int thread_id;
   char* plog_file;
-  pthread_mutex_t fp_mutex;
+  pthread_mutex_t* fp_mutex;
 } threadInfo;
 
 /**
