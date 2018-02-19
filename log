@@ -1,0 +1,218 @@
+
+Master Thread
+Posix Thread id is:140257456506624                         
+Linux Thread id is:24774
+Entry Time:Sun Feb 18 22:30:58 2018
+
+
+Child Thread2
+Posix Thread id is:140257448113920                         
+Linux Thread id is:24775
+Entry Time:Sun Feb 18 22:30:58 2018
+
+
+Child Thread1
+Posix Thread id is:140257439721216                         
+Linux Thread id is:24776
+Entry Time:Sun Feb 18 22:30:58 2018
+
+Characters with Three occurances
+
+Z
+Q
+X
+Child Thread1 Exiting:
+Sun Feb 18 22:30:58 2018
+
+ 22:30:58 up 11:12,  1 user,  load average: 0.50, 0.51, 0.79
+
+ 22:30:58 up 11:12,  1 user,  load average: 0.50, 0.51, 0.79
+
+ 22:30:58 up 11:12,  1 user,  load average: 0.50, 0.51, 0.79
+
+ 22:30:58 up 11:12,  1 user,  load average: 0.50, 0.51, 0.79
+
+ 22:30:58 up 11:12,  1 user,  load average: 0.50, 0.51, 0.79
+
+ 22:30:58 up 11:12,  1 user,  load average: 0.50, 0.51, 0.79
+
+ 22:30:58 up 11:12,  1 user,  load average: 0.50, 0.51, 0.79
+
+ 22:30:58 up 11:12,  1 user,  load average: 0.50, 0.51, 0.79
+
+ 22:30:58 up 11:12,  1 user,  load average: 0.50, 0.51, 0.79
+
+ 22:30:58 up 11:12,  1 user,  load average: 0.50, 0.51, 0.79
+
+ 22:30:59 up 11:12,  1 user,  load average: 0.50, 0.51, 0.79
+
+ 22:30:59 up 11:12,  1 user,  load average: 0.50, 0.51, 0.79
+
+ 22:30:59 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:30:59 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:30:59 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:30:59 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:30:59 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:30:59 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:30:59 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:30:59 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:00 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:00 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:00 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:00 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:00 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:00 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:00 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:00 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:00 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:00 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:01 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:01 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:01 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:01 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:01 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:01 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:01 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:01 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:01 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:01 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:02 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:02 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:02 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:02 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:02 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:02 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:02 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:02 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:02 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:02 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:03 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:03 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:03 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:03 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:03 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:03 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:03 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:03 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:03 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:03 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:04 up 11:12,  1 user,  load average: 0.62, 0.53, 0.79
+
+ 22:31:04 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:04 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:04 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:04 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:04 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:04 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:04 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:04 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:05 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:05 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:05 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:05 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:05 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:05 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:05 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:05 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:05 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:05 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:06 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:06 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:06 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:06 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:06 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:06 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:06 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:06 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:06 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:06 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:07 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:07 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:07 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+ 22:31:07 up 11:12,  1 user,  load average: 0.57, 0.52, 0.79
+
+Child Thread2 Exiting:
+Sun Feb 18 22:30:58 2018
+
+Master Thread Exiting
+Sun Feb 18 22:30:58 2018
+

@@ -23,6 +23,15 @@ typedef struct
 } threadInfo;
 
 /**
+*@brief:Implements synchronized thread safe version of fprintf
+*Can be called by various threads to write to the same filename, concurrently.
+*mutex protection allows only one thread to write to the file at a time.
+*@param:mutex pointer, string to be written, name of the file
+*@return: int. 0 on success and -1 on failure
+*/
+int fprintf_sync(char *, pthread_mutex_t*,char *);
+
+/**
 *@brief:Implements thread function for Master thread
 *Thread function passed at the time of thread creation to implement thread
 *oprtn. Creates Child Threads
